@@ -3,9 +3,9 @@ const { Client } = pg;
 
 export const client = new Client({
     host: "localhost",
-    user: "postgres",
-    port: 5432,
-    password: "mybaseAdmin_0",
+    user: "example",
+    port: 0000,
+    password: "example",
     database: "Tinder H."
 })
 
