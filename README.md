@@ -74,19 +74,19 @@ Para ejecutar este proyecto, deberá agregar las siguientes variables de entorno
 
 Estructura del Proyecto
 
-![Estructura del Proyecto](./Screenshots/Estructura del Proyecto.jpg)
+![Estructura del Proyecto](./Screenshots/Estructura del Proyecto.png)
 
 Estructura rutas
 
-![Estructura Manejo de rutas](./Screenshots/Estructura rutas.jpg)
+![Estructura Manejo de rutas](./Screenshots/Estructura rutas.png)
 
 Estructura del CRUD
 
-![Estructura del CRUD](./Screenshots/Estructura de las rutas.jpg)
+![Estructura del CRUD](./Screenshots/Estructura de las rutas.png)
 
 Estructura Archivos rutas
 
-![Estructura de las rutas](./Screenshots/Estructura del CRUD.jpg)
+![Estructura de las rutas](./Screenshots/Estructura del CRUD.png)
 
 ## Comentarios
 
